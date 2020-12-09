@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Narayan!
 
+![](https://komarev.com/ghpvc/?username=narayan1201&color=green)
 
 <!--
 **NARAYAN1201/NARAYAN1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
