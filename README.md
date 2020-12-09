@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I'm a shy person.
 
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=narayan1201&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=narayan1201)
+
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
@@ -29,7 +35,3 @@ Here are some ideas to get you started:
 </p>
   
 </p>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=narayan1201&theme=highcontrast&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=narayan1201)
