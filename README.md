@@ -20,20 +20,7 @@ Here are some ideas to get you started:
 
 
 
-## My Repos
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=narayan1201&theme=highcontrast&show_icons=true&count_private=true)
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=narayan1201&repo=vennfig&show_owner=true)](https://github.com/narayan1201/vennfig)
-
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=narayan1201&repo=statsfig&show_owner=true)](https://github.com/narayan1201/statsfig)
-
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=narayan1201&repo=covid-19-stats&show_owner=true)](https://github.com/narayan1201/covid-19-stats)
-
-**Languages and Tools:**  
-
-<code><img height="40" src="https://raw.githubusercontent.com/narayan1201/narayan1201/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/narayan1201/narayan1201/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/narayan1201/narayan1201/master/assets/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/narayan1201/narayan1201/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/narayan1201/narayan1201/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/narayan1201/narayan1201/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/narayan1201/narayan1201/master/assets/vim.png"></code>  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=narayan1201)
