@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-- 🔭 I’m currently working on ROS Project
+- 🔭 I am currently working on Data Pipeline creation and automation
 
-- 🌱 I’m currently learning ROS and VLSI CAD
+- 🌱 I’m currently learning Pyspark and Azure Data Factory
 
 - 📫 How to reach me: narayankaushik16@gmail.com
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
-<a href="https://www.linkedin.com/in/narayan-sharma-a3b68a137/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/narayan-sharma12/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
 <a href="https://www.instagram.com/narayan_kaushik_12" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
 <a href="https://www.facebook.com/narayan.kaushik.01/" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
 <a href="https://github.com/narayan1201" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
